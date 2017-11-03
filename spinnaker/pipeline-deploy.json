@@ -88,8 +88,7 @@
             "KubernetesPod"
           ],
           "loadBalancers": [
-            "sample-frontend-canary",
-            "sample-frontend-prod"
+            "sample-frontend-canary"
           ],
           "namespace": "default",
           "nodeSelector": {},
